@@ -1,4 +1,4 @@
-Flood-And-Drought-Monitoring-App-GEE-Platform. Question aboy the scene
+Flood-And-Drought-Monitoring-App-GEE-Platform.
 -------------------------------------------- 
 
 For Implement in Local Server/PC , follow the 'Project code structure & Requirements Commands'
